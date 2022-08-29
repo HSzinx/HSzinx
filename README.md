@@ -1,11 +1,6 @@
+# Sobre mim
 - Oi meu nome é  @HSzinx
--  
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Meu emil de contato é heitor.peniche@escola.pr.gov.br
+- 👀 Eu estou interessado em apremder a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 
-<!---
-HSzinx/HSzinx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
